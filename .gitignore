@@ -1,0 +1,10 @@
+# Original training-camp assets stay in Google Drive, not GitHub.
+IYC-2026 资料汇总/
+.preview-cache/
+__pycache__/
+*.zip
+*.zip.part
+
+# Local preview and tunnel helpers
+.iyc-local/
+*.log
